@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+service name:
+See VPN Premium subscription
 
-You can use the [editor on GitHub](https://github.com/TxIaPxAQr/TxlaPxAQr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Subscription length:
+1 month, 1 year (visit virtual location, faster connection speed. Priority support, no ads)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Subscription price and price per unit:
+* 7 days VIP: $1.99
+* 3 months: $11.99
+* 6 months: $19.99
+* 12 months: $27.99
+* 24 months: $33.99
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TxIaPxAQr/TxlaPxAQr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can become an advanced user and get more features with an auto-renew subscription:
+* 1 month: $4.49
+Subscription information:
+*The payment will be deducted from the iTunes account upon confirmation of purchase.
+*Subscription will automatically renew unless automatic renewal is closed at least 24 hours before the end of the current period
+*The account will be charged $3.99 for one month and $23.99 for one year within 24 hours prior to the end of the current period, and the renewal fee will be determined.
+*Subscriptions can be managed by the user and can be turned off after the purchase to the user's account settings to turn off automatic renewal
